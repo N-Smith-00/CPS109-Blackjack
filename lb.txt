@@ -1,0 +1,3 @@
+nick,2
+nick,1
+nick,0
